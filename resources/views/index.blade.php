@@ -213,7 +213,7 @@
                         <h3 class="resume-title">Professional Experience</h3>
                         <div class="resume-item">
                             <h4>Junior Backend Deveoper</h4>
-                            <h5>March 2022 - Present</h5>
+                            <h5>March 2023 - Present</h5>
                             <p><em>Sphererays Technolabs Private Limited, Rajkot, Gujarat. </em></p>
                             <ul>
                                 <li>Wrote and developed new and well-tested code for different web application projects
@@ -232,7 +232,7 @@
                         </div>
                         <div class="resume-item">
                             <h4>Web Developer Trainee</h4>
-                            <h5>December 2021 - February 2022</h5>
+                            <h5>December 2022 - February 2023</h5>
                             <p><em>Sphererays Technolabs Private Limited, Rajkot, Gujarat. </em></p>
                             <ul>
                                 <li>Explored and created new ways to resolve problems with processes, technology or team
@@ -243,7 +243,7 @@
                         </div>
                         <div class="resume-item">
                             <h4>Project Trainee</h4>
-                            <h5>June 2019</h5>
+                            <h5>June 2021</h5>
                             <p><em>Jagdish Industries, Rajkot, Gujarat. </em></p>
                             <ul>
                                 <li>The Jagdish Industries project is based on Information Of automobile spare parts
